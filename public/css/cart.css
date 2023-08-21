@@ -1,0 +1,148 @@
+.delete-cart{
+    padding: 0px 15px;
+    font-size: 18px;
+}
+.cart_area{
+    padding-top: 70px;
+}
+.cart-pro-name{
+    font-size: 16px;
+    color: black;
+}
+.cart-total{
+    color: #f8b600 !important; 
+    font-weight: 600;
+}
+.cart-table thead{
+    background-color: #f6f6f6;
+}
+.cart-table tbody td{
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.cupon_text{
+    margin-left: 0px !important;
+}
+.apply_btn{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.increase :focus{
+    border: none !important;
+}
+
+.payment_info{
+    background-color: #71cd14;
+    border-radius: 15px;
+    padding: 15px 25px;
+    box-shadow: 0 0 2px gray;
+    max-height: 300px;
+    position: sticky;
+    top: 90px;
+}
+.payment_item{
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgb(208, 208, 208);
+}
+.payment_info h3{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.payment_item p{
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.payment_item .ship_select{
+    width: 100%;
+}
+.payment_item .ship_select>option{
+    width: 100%;
+}
+.payment_item p span{
+    float: right;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.payment_total{
+    padding-top: 20px;
+    border: none;
+}
+.btn_pay{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: #71cd14;
+    background-color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+
+.no_cart{
+    text-align: center;
+    font-weight: bold;
+    color: #f8b600;
+}
+
+.payment{
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 0 0 8px #cccccc;
+}
+.payment .row{
+    padding: 0 30px 30px 30px;
+}
+.patment-title{
+    background-color: #f6f6f6;
+    border-radius: 15px 15px 0 0;
+    border-bottom: 1px solid rgb(236, 236, 236);
+}
+.patment-title h2{
+    padding: 15px;
+    font-size: 24px;
+    color: #797979;
+    font-weight: 600;
+    width: 100%;
+    
+}
+.mt-10 label, .mt-5 label{
+    font-weight: 600;
+}
+.payment .mt-5{
+    margin-top: 1.25rem !important;
+}
+.payment-money .col-3{
+    padding: 0 10px;
+}
+.payment-money .element{
+    background-color: #f6f6f6;
+    padding: 20px;
+}
+.payment-money .element h3{
+    font-weight: bold;
+    color: #f8b600;
+}
+.payment-money .element-total{
+    color: #f44a40 !important;
+}
+.payment .genric-btn.primary{
+    border-radius: 5px;
+    margin: 0px;
+    font-size: 16px;
+    padding: 8px 12px;
+}
+.order-total{
+    color: #f44a40;
+    font-weight: bold;
+}
+
+.info-order{
+    min-height: auto;
+    max-height: 800px !important;
+}

@@ -1,0 +1,52 @@
+.order-user{
+    padding: 20px;
+}
+.order-info-user{
+    background-color: white;
+    padding: 15px;
+}
+.info-user h3{
+    text-align: center;
+}
+.info-user-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table td img{
+    border-radius: 5px !important;
+}
+
+.info-user-content p{
+    font-weight: bold;
+}
+.info-user-content span{
+    font-weight: bold;
+}
+.login-fail{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+.brand-logo{
+    display: flex;
+    justify-content: center;
+}
+.brand-logo img{
+    width: 200px;
+}
+.auth-form-btn{
+    background-color: #1d7c45;
+    border: none;
+    box-shadow: 0 0 5px #cdcdcd;
+}
+.auth-form-btn:hover{
+    background-color: #269c57 !important;
+}
+.auth-form-light{
+    box-shadow: 0 0 5px #cdcdcd;
+    border-radius: 5px;
+}
+.font-weight-light{
+    font-size: 14px;
+}
